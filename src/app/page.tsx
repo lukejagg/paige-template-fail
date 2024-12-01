@@ -1,3 +1,6 @@
+import wrong from "wrong";
+wrong();
+
 export default function Home() {
   return (
     <div className="min-h-screen">
